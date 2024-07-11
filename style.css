@@ -1,0 +1,19 @@
+.center{
+    
+    background-color: aqua;
+   
+}
+.rama{
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-content: center;
+}
+
+.link{
+    display:flex;
+    background-color: brown;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
